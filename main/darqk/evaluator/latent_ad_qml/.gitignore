@@ -1,0 +1,27 @@
+*/.ipynb_checkpoints/*
+__pycache__/
+*/__pycache__/*
+._*
+*.pyc
+*DS_Store*
+.vscode/
+
+# Output
+trained_qsvms/
+logs/
+*.log
+*.out
+
+# Data Files
+*.h5
+*.npy
+
+# Sphinx documentation
+docs/_build/
+docs/build/
+
+*egg-info*
+build
+
+# IDE
+*.idea*
